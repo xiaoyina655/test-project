@@ -1,0 +1,24 @@
+# Keil 临时文件
+*.axf
+*.hex
+*.lst
+*.obj
+*.o
+*.d
+*.crf
+*.dep
+*.map
+*.lnp
+*.plg
+*.tra
+*.bak
+*.tmp
+*.scvd
+*.sct
+
+# Keil 输出文件夹
+Objects/
+Listings/
+
+# VSCode 缓存
+.vscode/
